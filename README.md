@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrriKrishna
+- 👋 Hi, I’m SrriKrishna
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Java Full Stack Development
 - 💞️ I’m looking to collaborate with you 
