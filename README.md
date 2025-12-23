@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stack
 
 #### Backend & Frontend
-<p>
+<p align="center">
   Java <img src="https://skillicons.dev/icons?i=java" width="30"/>  &nbsp;&nbsp;
   Spring Boot <img src="https://skillicons.dev/icons?i=spring" width="30"/>  &nbsp;&nbsp;
   HTML5 <img src="https://skillicons.dev/icons?i=html" width="30"/>  &nbsp;&nbsp;
@@ -19,7 +19,7 @@
 </p>
 
 #### Database & Tools
-<p>
+<p align="center">
   MySQL <img src="https://skillicons.dev/icons?i=mysql" width="30"/> &nbsp;&nbsp;
   Postman<img src="https://skillicons.dev/icons?i=postman" width="30"/> &nbsp;&nbsp;
   PostgreSQL<img src="https://skillicons.dev/icons?i=postgresql" width="30"/> &nbsp;&nbsp;
@@ -27,7 +27,7 @@
 </p>
 
 #### IDEs & Editors
-<p>
+<p align="center">
   IntelliJ IDEA<img src="https://skillicons.dev/icons?i=idea" width="30"/>  &nbsp;&nbsp;
   Eclipse <img src="https://skillicons.dev/icons?i=eclipse" width="30"/> &nbsp;&nbsp;
   VS Code <img src="https://skillicons.dev/icons?i=vscode" width="30"/> 
