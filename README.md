@@ -8,20 +8,33 @@
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 #### Backend & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java" width="30"/> Java &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="30"/> Spring Boot &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="30"/> React &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="30"/> JavaScript &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="30"/> HTML5 &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="30"/> CSS3
 </p>
 
 #### Database & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postman,git,github" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="30"/> Postman &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="30"/> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub
 </p>
 
 #### IDEs & Editors
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=idea" width="30"/> IntelliJ IDEA &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse" width="30"/> Eclipse &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="30"/> VS Code
 </p>
+
 
 
 ---
