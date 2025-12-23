@@ -44,16 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrriKrishna&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrriKrishna&theme=tokyonight)
-
----
-
 ### 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrriKrishna&layout=compact&theme=tokyonight)
 
