@@ -10,25 +10,25 @@
 
 #### Backend & Frontend
 <p align="center">
-  Java <img src="https://skillicons.dev/icons?i=java" width="30"/>  &nbsp;&nbsp;
-  Spring Boot <img src="https://skillicons.dev/icons?i=spring" width="30"/>  &nbsp;&nbsp;
-  HTML5 <img src="https://skillicons.dev/icons?i=html" width="30"/>  &nbsp;&nbsp;
-  CSS3 <img src="https://skillicons.dev/icons?i=css" width="30"/> 
-  JavaScript <img src="https://skillicons.dev/icons?i=js" width="30"/>  &nbsp;&nbsp;
-  React <img src="https://skillicons.dev/icons?i=react" width="30"/>  &nbsp;&nbsp;
+  Java <img src="https://skillicons.dev/icons?i=java" width="30"/> &nbsp;&nbsp;
+  Spring Boot <img src="https://skillicons.dev/icons?i=spring" width="30"/> &nbsp;&nbsp;
+  HTML5 <img src="https://skillicons.dev/icons?i=html" width="30"/> &nbsp;&nbsp;
+  CSS3 <img src="https://skillicons.dev/icons?i=css" width="30"/> &nbsp;&nbsp;
+  JavaScript <img src="https://skillicons.dev/icons?i=js" width="30"/> &nbsp;&nbsp;
+  React <img src="https://skillicons.dev/icons?i=react" width="30"/>  
 </p>
 
 #### Database & Tools
 <p align="center">
   MySQL <img src="https://skillicons.dev/icons?i=mysql" width="30"/> &nbsp;&nbsp;
-  Postman<img src="https://skillicons.dev/icons?i=postman" width="30"/> &nbsp;&nbsp;
-  PostgreSQL<img src="https://skillicons.dev/icons?i=postgresql" width="30"/> &nbsp;&nbsp;
+  Postman <img src="https://skillicons.dev/icons?i=postman" width="30"/> &nbsp;&nbsp;
+  PostgreSQL <img src="https://skillicons.dev/icons?i=postgresql" width="30"/> &nbsp;&nbsp;
   GitHub <img src="https://skillicons.dev/icons?i=github" width="30"/>
 </p>
 
 #### IDEs & Editors
 <p align="center">
-  IntelliJ IDEA<img src="https://skillicons.dev/icons?i=idea" width="30"/>  &nbsp;&nbsp;
+  IntelliJ IDEA <img src="https://skillicons.dev/icons?i=idea" width="30"/>  &nbsp;&nbsp;
   Eclipse <img src="https://skillicons.dev/icons?i=eclipse" width="30"/> &nbsp;&nbsp;
   VS Code <img src="https://skillicons.dev/icons?i=vscode" width="30"/> 
 </p>
