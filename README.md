@@ -28,7 +28,7 @@
 
 #### IDEs & Editors
 <p align="center">
-  IntelliJ IDEA<img src="https://skillicons.dev/icons?i=idea" width="50"/>  &nbsp;&nbsp;
+  IntelliJ IDEA<img src="https://skillicons.dev/icons?i=idea" width="30"/>  &nbsp;&nbsp;
   Eclipse <img src="https://skillicons.dev/icons?i=eclipse" width="30"/> &nbsp;&nbsp;
   VS Code <img src="https://skillicons.dev/icons?i=vscode" width="30"/> 
 </p>
