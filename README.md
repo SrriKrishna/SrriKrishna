@@ -8,8 +8,6 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 #### Backend & Frontend
 <p>
   Java <img src="https://skillicons.dev/icons?i=java" width="30"/>  &nbsp;&nbsp;
