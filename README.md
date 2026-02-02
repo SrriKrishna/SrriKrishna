@@ -49,13 +49,8 @@
 ### 📂 Featured Projects
 - 💬 **Smart Messenger** – Real-time chat application using WebSocket & Spring Boot  
 - 🧑‍💼 **Employee Management System** – Full-stack CRUD app (React + Spring Boot + MySQL)  
-- 💎 **Karat & Carat Diamonds** – Jewellery e-commerce & order management system  
-
----
-
-### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrriKrishna&layout=compact&theme=tokyonight)
-
+- 💎 **Karat & Carat Diamonds** – Jewellery e-commerce & order management system
+  
 ---
 
 ### 🎯 Currently
