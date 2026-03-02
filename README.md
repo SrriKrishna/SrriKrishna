@@ -1,68 +1,84 @@
-## 👋 Hi, I’m SrriKrishna (@SrriKrishna)
+👋 Hi, I’m SrriKrishna (@SrriKrishna)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend-Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Web+Applications;Always+Learning+%26+Improving" />
-</p>
+Backend-Focused Full Stack Developer
 
----
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Backend-Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Web+Applications;Always+Learning+%26+Improving" /> </p>
+⚡ About Me
 
-### 🛠️ Tech Stack
+I build reliable backend systems and full-stack applications with a strong focus on:
 
-#### Backend & Frontend
-<p align="center">
-  Java <img src="https://skillicons.dev/icons?i=java" width="30"/> &nbsp;&nbsp;
-  Spring Boot <img src="https://skillicons.dev/icons?i=spring" width="30"/> &nbsp;&nbsp;
-  HTML5 <img src="https://skillicons.dev/icons?i=html" width="30"/> &nbsp;&nbsp;
-  CSS3 <img src="https://skillicons.dev/icons?i=css" width="30"/> &nbsp;&nbsp;
-  JavaScript <img src="https://skillicons.dev/icons?i=js" width="30"/> &nbsp;&nbsp;
-  React <img src="https://skillicons.dev/icons?i=react" width="30"/>  
-</p>
+✅ Clean Java & Spring Boot architecture
 
-#### Database & Tools
-<p align="center">
-  MySQL <img src="https://skillicons.dev/icons?i=mysql" width="30"/> &nbsp;&nbsp;
-  Postman <img src="https://skillicons.dev/icons?i=postman" width="30"/> &nbsp;&nbsp;
-  PostgreSQL <img src="https://skillicons.dev/icons?i=postgresql" width="30"/> &nbsp;&nbsp;
-  GitHub <img src="https://skillicons.dev/icons?i=github" width="30"/>
-</p>
+✅ Scalable REST API design
 
-#### IDEs & Editors
-<p align="center">
-  IntelliJ IDEA <img src="https://skillicons.dev/icons?i=idea" width="30"/>  &nbsp;&nbsp;
-  Eclipse <img src="https://skillicons.dev/icons?i=eclipse" width="30"/> &nbsp;&nbsp;
-  VS Code <img src="https://skillicons.dev/icons?i=vscode" width="30"/> 
-</p>
+✅ Database-driven applications (MySQL, PostgreSQL)
 
+✅ Maintainable code using OOP, MVC, layered architecture
 
+I don’t just build features — I focus on correctness, scalability, and long-term maintainability.
 
----
+🛠️ Tech Stack
+🔹 Backend / Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react" /> </p>
+🔹 Databases & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,github" /> </p>
+🔹 IDEs & Editors
+<p align="center"> <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" /> </p>
+💻 What I Build
 
-### 💻 What I Do
-- 🔧 Build scalable backend services using **Java & Spring Boot**
-- 🌐 Develop and integrate **RESTful APIs**
-- 🧑‍💼 Create full-stack CRUD applications
-- 🧪 Test and debug APIs using **Postman**
-- 🧠 Apply **OOP, MVC, layered architecture**, and clean coding practices
+🔧 Backend services using Java & Spring Boot
 
----
+🌐 RESTful APIs with proper request/response design
 
-### 📂 Featured Projects
-- 💬 **Smart Messenger** – Real-time chat application using WebSocket & Spring Boot  
-- 🧑‍💼 **Employee Management System** – Full-stack CRUD app (React + Spring Boot + MySQL)  
-- 💎 **Karat & Carat Diamonds** – Jewellery e-commerce & order management system
-  
----
+🧑‍💼 Full-stack CRUD applications
 
-### 🎯 Currently
-- 🌱 Strengthening **Spring Boot & Backend Architecture**
-- 📚 Preparing for backend & full-stack interviews
-- 🤝 Open to **internships and backend-focused roles**
+🧪 API testing & debugging using Postman
 
----
+🧠 Strong application of OOP principles & design patterns
 
-### 📫 Connect With Me
-<p align="center"> 💼 <a href="www.linkedin.com/in/srri-krishna15" target="_blank">LinkedIn</a> </p>
+📂 Featured Projects
+💬 Smart Messenger
 
----
+Real-time chat application
 
-⭐ If you like my work, feel free to star ⭐ my repositories!
+WebSocket-based messaging
+
+Spring Boot backend
+
+Focus on low-latency communication
+
+🧑‍💼 Employee Management System
+
+Full-stack CRUD application
+
+Backend: Spring Boot
+
+Frontend: React
+
+Database: MySQL
+
+💎 Karat & Carat Diamonds
+
+Jewellery e-commerce & order management
+
+Product & order workflows
+
+Backend-driven business logic
+
+Relational database design
+
+🎯 Currently
+
+🌱 Deepening Spring Boot & backend architecture
+
+📚 Preparing for backend / full-stack interviews
+
+🤝 Open to internships and backend-focused roles
+
+📫 Let’s Connect
+
+💼 GitHub: @SrriKrishna
+
+🔗 LinkedIn: (add when ready)
+
+✉️ Open to collaboration and learning opportunities
