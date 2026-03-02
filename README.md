@@ -1,84 +1,90 @@
-👋 Hi, I’m SrriKrishna (@SrriKrishna)
+<!-- ====== HERO BANNER ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=SrriKrishna&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-Backend-Focused Full Stack Developer
+<h3 align="center">Backend-Focused Full Stack Developer</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Backend-Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Web+Applications;Always+Learning+%26+Improving" /> </p>
-⚡ About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Scalable+Backend+Development;Clean+Architecture+%26+System+Design" />
+</p>
 
-I build reliable backend systems and full-stack applications with a strong focus on:
+---
 
-✅ Clean Java & Spring Boot architecture
+## ⚡ About Me
 
-✅ Scalable REST API design
+I build **backend-heavy, production-ready applications** with focus on:
 
-✅ Database-driven applications (MySQL, PostgreSQL)
+- ✅ Java & Spring Boot backend development  
+- ✅ REST API design & integration  
+- ✅ MySQL & PostgreSQL data modeling  
+- ✅ Clean architecture (MVC, layered design)  
 
-✅ Maintainable code using OOP, MVC, layered architecture
+> I focus on correctness, scalability, and maintainability — not just features.
 
-I don’t just build features — I focus on correctness, scalability, and long-term maintainability.
+---
 
-🛠️ Tech Stack
-🔹 Backend / Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react" /> </p>
-🔹 Databases & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,github" /> </p>
-🔹 IDEs & Editors
-<p align="center"> <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" /> </p>
-💻 What I Build
+## 🧱 What I Build (Production Style)
 
-🔧 Backend services using Java & Spring Boot
+<table>
+<tr>
+<td width="50%">
 
-🌐 RESTful APIs with proper request/response design
+### 🧑‍💼 Employee Management System
+**Full-Stack CRUD Application**
 
-🧑‍💼 Full-stack CRUD applications
+**Stack**
+- Backend: Spring Boot  
+- Frontend: React  
+- Database: MySQL  
 
-🧪 API testing & debugging using Postman
+**Features**
+- Employee CRUD  
+- Role-based structure  
+- REST API integration  
 
-🧠 Strong application of OOP principles & design patterns
+🟢 **Status:** Completed
 
-📂 Featured Projects
-💬 Smart Messenger
+</td>
+<td width="50%">
 
-Real-time chat application
+### 💬 Smart Messenger
+**Real-Time Chat Application**
 
-WebSocket-based messaging
+**Stack**
+- Backend: Spring Boot  
+- Realtime: WebSocket  
+- Database: MySQL  
 
-Spring Boot backend
+**Features**
+- Real-time messaging  
+- Event-driven updates  
 
-Focus on low-latency communication
+🟢 **Status:** Completed
 
-🧑‍💼 Employee Management System
+</td>
+</tr>
+</table>
 
-Full-stack CRUD application
+---
 
-Backend: Spring Boot
+## 🛠️ Tech Stack
 
-Frontend: React
+### Backend / Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react" />
+</p>
 
-Database: MySQL
+### Databases / Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,github" />
+</p>
 
-💎 Karat & Carat Diamonds
+### IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
+</p>
 
-Jewellery e-commerce & order management
+---
 
-Product & order workflows
-
-Backend-driven business logic
-
-Relational database design
-
-🎯 Currently
-
-🌱 Deepening Spring Boot & backend architecture
-
-📚 Preparing for backend / full-stack interviews
-
-🤝 Open to internships and backend-focused roles
-
-📫 Let’s Connect
-
-💼 GitHub: @SrriKrishna
-
-🔗 LinkedIn: (add when ready)
-
-✉️ Open to collaboration and learning opportunities
+## 🧠 Core Expertise
