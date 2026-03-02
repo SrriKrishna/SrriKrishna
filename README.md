@@ -87,4 +87,24 @@ I build **backend-heavy, production-ready applications** with focus on:
 
 ---
 
-## 🧠 Core Expertise
+
+## 🎯 Currently Focused On
+
+- 🌱 Advanced Spring Boot concepts  
+- 📚 Backend interview preparation  
+- 🧠 Improving system design fundamentals  
+
+---
+
+## 📊 GitHub Stats (Optional but Matches UI)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrriKrishna&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrriKrishna&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
